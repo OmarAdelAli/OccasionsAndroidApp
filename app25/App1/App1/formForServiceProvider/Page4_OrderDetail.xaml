@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Order Details"
+             Padding="5,20,5,10"
+             x:Class="App1.formForServiceProvider.Page4_OrderDetail">
+    <ScrollView>
+        <StackLayout>
+            <StackLayout>
+                <Frame BorderColor="LightGray">
+                    <StackLayout VerticalOptions="Center">
+                        <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="5,0,10,20"   >
+                            <ListView x:Name="timetableLV" ItemsSource="{Binding .}"  HasUnevenRows="True" IsPullToRefreshEnabled="True"  SeparatorVisibility="Default">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <StackLayout>
+                                                <Grid  Padding="5,0,5,10" FlowDirection="RightToLeft">
+                                                    <Label Grid.Column="1" Text="Service Name : " FontSize="Small" FontAttributes="Bold" TextColor="Black"></Label>
+                                                    <Label Grid.Column="0" Text="{Binding ServiceName}"  FontSize="Small"  TextColor="#ea6c57"></Label>
+                                                </Grid>
+                                                <Grid  Padding="5,0,5,10" FlowDirection="RightToLeft">
+                                                    <Label Grid.Column="1" Text="Price : " FontSize="Small"  FontAttributes="Bold"  TextColor="Black"></Label>
+                                                    <Label  Grid.Column="0" Text="{Binding Price}"  FontSize="Small"   TextColor="#ea6c57"></Label>
+                                                </Grid>
+                                            </StackLayout>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

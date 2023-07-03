@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                Padding="10,20,10,0"
+             Title="Select Shop"
+             x:Class="App1.FormForClient.Page2_ServiceProviders">
+    <ScrollView>
+        <StackLayout>
+            <StackLayout>
+                <Frame BorderColor="LightGray">
+                    <StackLayout VerticalOptions="Center">
+                        <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="5,0,10,20"   >
+                            <ListView x:Name="timetableLV" ItemsSource="{Binding .}" ItemTapped="timetableLV_ItemTapped"  HasUnevenRows="True" IsPullToRefreshEnabled="True"  SeparatorVisibility="Default">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <StackLayout>
+                                            <Grid  Padding="5,0,5,10" FlowDirection="RightToLeft">
+                                                <Label Grid.Column="1" Text="Shop Name : " FontSize="Small" FontAttributes="Bold" TextColor="Black"></Label>
+                                                    <Label Grid.Column="0" Text="{Binding ShopName}"  FontSize="Small"  TextColor="#ea6c57"></Label>
+                                            </Grid>
+                                                <Grid  Padding="5,0,5,10" FlowDirection="RightToLeft">
+                                                    <Label Grid.Column="1" Text="address : " FontSize="Small"  FontAttributes="Bold"  TextColor="Black"></Label>
+                                                    <Label  Grid.Column="0" Text="{Binding address}"  FontSize="Small"   TextColor="#ea6c57"></Label>
+                                                </Grid>
+                                                <Grid  Padding="5,0,5,10" FlowDirection="RightToLeft">
+                                                    <Label  Grid.Column="1" Text="mobile : " FontSize="Small"  FontAttributes="Bold"  TextColor="Black"></Label>
+                                                    <Label Grid.Column="0" Text="{Binding mobile}"  FontSize="Small"   TextColor="#ea6c57"></Label>
+                                                </Grid>
+                                                <Label  Text="{Binding ID}"  FontSize="Small" IsVisible="False"   TextColor="Black"></Label>
+                                            </StackLayout>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

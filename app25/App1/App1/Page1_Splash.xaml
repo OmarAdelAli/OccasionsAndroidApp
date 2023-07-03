@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="White"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="App1.Page1_Splash">
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Image x:Name="logos"  WidthRequest="200" HeightRequest="200" IsVisible="True" Source="appLogo.png"></Image>
+        <Label Text="OCCASIONS" FontSize="Title"  FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+        <Label Text="All Rights Reserved" FontSize="Small" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+        <Label Text="Version No 1.1" TextColor="#ea6c57"  HorizontalTextAlignment="Center"></Label>
+    </StackLayout>
+</ContentPage>

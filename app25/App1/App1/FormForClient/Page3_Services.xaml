@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Select Services"
+             Padding="5,20,5,10"
+             x:Class="App1.FormForClient.Page3_Services">
+    <StackLayout Padding="10,0,10,20">
+        <Frame Padding="0,5,0,5" BorderColor="LightGray" CornerRadius="10">
+            <ListView  x:Name="timetableLV" ItemsSource="{Binding .}"  HasUnevenRows="True" FlowDirection="LeftToRight">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                            <StackLayout Orientation="Horizontal"  FlowDirection="LeftToRight"  Padding="5,10,5,0">
+                                <Grid >
+                                    <Switch  x:Name="absentSwitch" HorizontalOptions="End" BindingContext="{Binding ID}"  Toggled="absentSwitch_Toggled"></Switch>
+                                </Grid>
+                                <Label   Text="{Binding ID}"  VerticalTextAlignment="Center"></Label>
+                                <Label   Text="{Binding Service_name}" VerticalTextAlignment="Center"></Label>
+                            </StackLayout>
+                                <StackLayout  Padding="60,0,5,5">
+                                <Label HorizontalTextAlignment="Start"  Text="{Binding description}" VerticalTextAlignment="Center"></Label>
+                                <Label   Text="{Binding Price}" VerticalTextAlignment="Center"></Label>
+                            </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Frame>
+        <StackLayout Orientation="Horizontal" Padding="20,5,20,0" >
+            <Button Text="Next" BackgroundColor="#ea6c57" HorizontalOptions="FillAndExpand"  CornerRadius="10" BorderWidth="2"  TextColor="White"  Clicked="Button_Clicked"></Button>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

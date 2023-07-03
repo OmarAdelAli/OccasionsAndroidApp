@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Client Order"
+             Padding="5,20,5,10"
+             x:Class="App1.formForforClient.Page6_viewOrdersForCustomer">
+    <ScrollView>
+        <StackLayout>
+            <StackLayout>
+                <Frame BorderColor="LightGray">
+                    <StackLayout VerticalOptions="Center">
+                        <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="5,0,10,20"   >
+                            <ListView x:Name="timetableLV" ItemsSource="{Binding .}" ItemTapped="timetableLV_ItemTapped"  HasUnevenRows="True" IsPullToRefreshEnabled="True"  SeparatorVisibility="Default">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <StackLayout>
+                                                <Grid  Padding="5,0,5,10" FlowDirection="RightToLeft">
+                                                    <Label Grid.Column="1" Text="Order Date : " FontSize="Small" FontAttributes="Bold" TextColor="Black"></Label>
+                                                    <Label Grid.Column="0" Text="{Binding OrderDate}"  FontSize="Small"  TextColor="#ea6c57"></Label>
+                                                </Grid>
+                                                <Grid  Padding="5,0,5,10" FlowDirection="RightToLeft">
+                                                    <Label Grid.Column="1" Text="Client Number : " FontSize="Small"  FontAttributes="Bold"  TextColor="Black"></Label>
+                                                    <Label  Grid.Column="0" Text="{Binding ClientID}"  FontSize="Small"   TextColor="#ea6c57"></Label>
+                                                </Grid>
+                                                <Grid  Padding="5,0,5,10" FlowDirection="RightToLeft">
+                                                    <Label  Grid.Column="1" Text="Address : " FontSize="Small"  FontAttributes="Bold"  TextColor="Black"></Label>
+                                                    <Label Grid.Column="0" Text="{Binding Address}"  FontSize="Small"   TextColor="#ea6c57"></Label>
+                                                </Grid>
+                                                <Label  Text="{Binding OrderID}"  FontSize="Small" IsVisible="False"   TextColor="Black"></Label>
+
+                                            </StackLayout>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

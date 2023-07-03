@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Payment"
+             Padding="10,10,10,10"
+             x:Class="App1.FormForClient.Page5_Payment">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Picker x:Name="PaymentMethodDDL" HorizontalOptions="FillAndExpand"></Picker>
+            <Entry x:Name="CardholderNameTB" Keyboard="letter" MaxLength="16" HorizontalOptions="FillAndExpand" Placeholder="Card Holder Name"></Entry>
+            <Entry x:Name="CardNoTB" MaxLength="16" Keyboard="Numeric" HorizontalOptions="FillAndExpand" Placeholder="Card Number"></Entry>
+            <Entry x:Name="SecNoTB" MaxLength="3" Keyboard="Numeric"  HorizontalOptions="FillAndExpand" Placeholder="Sec Number" IsPassword="True"></Entry>
+            <Button HorizontalOptions="FillAndExpand" Text="Confirm" x:Name="ConfirmBtn" Clicked="ConfirmBtn_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,54 @@
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page1_MainPageAfterLogin.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page2_ServiceProviders.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page3_Services.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page4_PlaceOrder.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page5_Payment.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\formForServiceProvider\Page1_MainPageForServiceProvider.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\formForServiceProvider\Page2_AddService.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\formForServiceProvider\Page3_ClientOrder.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\formForServiceProvider\Page4_OrderDetail.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\Page1_Splash.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\Page2_Login.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\Page3_SignupForClient.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\Page4_SignupForServiceProvider.xaml.g.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+E:\app25\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+E:\app25\App1\App1\bin\Debug\netstandard2.0\App1.dll
+E:\app25\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+E:\app25\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+E:\app25\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+E:\app25\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page1_MainPageAfterLogin.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page2_ServiceProviders.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page3_Services.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page4_PlaceOrder.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\FormForClient\Page5_Payment.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\formForServiceProvider\Page1_MainPageForServiceProvider.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\formForServiceProvider\Page2_AddService.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\formForServiceProvider\Page3_ClientOrder.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\formForServiceProvider\Page4_OrderDetail.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\Page1_Splash.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\Page2_Login.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\Page3_SignupForClient.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\Page4_SignupForServiceProvider.xaml.g.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+E:\app25\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+E:\app25\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+E:\app25\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\app25\App1\App1\obj\Debug\netstandard2.0\App1.dll
+E:\app25\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+E:\app25\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+E:\app25\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll

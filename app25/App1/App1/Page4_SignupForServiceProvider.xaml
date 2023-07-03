@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                                       NavigationPage.HasNavigationBar="False"
+             x:Class="App1.Page4_SignupForServiceProvider">
+    <StackLayout VerticalOptions="Center" Padding="20,20,10,20"   >
+        <ScrollView>
+            <Frame BorderColor="#ea6c57" CornerRadius="10"  Padding="0">
+                <StackLayout>
+                    <Image  x:Name="memberImage2" Source="appLogo.png" HeightRequest="150" WidthRequest="150" Aspect="AspectFit" HorizontalOptions="Center" >
+                    </Image>
+                    <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                        <Label Text="User name"></Label>
+                        <Entry x:Name="userNameTB"  HorizontalTextAlignment="Center"   TextColor="#ea6c57"   HorizontalOptions="FillAndExpand" MaxLength="30"></Entry>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                        <Label Text="Shop name"></Label>
+                        <Entry x:Name="ShopName"  HorizontalTextAlignment="Center"  TextColor="#ea6c57"   HorizontalOptions="FillAndExpand" MaxLength="50"></Entry>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                        <Label Text="Category"></Label>
+                        <Picker x:Name="CategoryDDL"  HorizontalTextAlignment="Center"    TextColor="#ea6c57"   HorizontalOptions="FillAndExpand"></Picker>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                        <Label Text="Mobile Number"></Label>
+                        <Entry x:Name="userMobileTB"  HorizontalTextAlignment="Center" Keyboard="Numeric"  TextColor="#ea6c57"   HorizontalOptions="FillAndExpand" MaxLength="10"></Entry>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                        <Label Text="Email"></Label>
+                        <Entry x:Name="EmailTB"  HorizontalTextAlignment="Center"    TextColor="#ea6c57"   HorizontalOptions="FillAndExpand"></Entry>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                        <Label Text="Vat Number"></Label>
+                        <Entry x:Name="VatNoTB"  HorizontalTextAlignment="Center" MaxLength="15" Keyboard="Numeric"   TextColor="#ea6c57"   HorizontalOptions="FillAndExpand" ></Entry>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                        <Label Text="Iban Number"></Label>
+                        <Entry x:Name="IbanTB" MaxLength="15" HorizontalTextAlignment="Center" Keyboard="Numeric" TextColor="#ea6c57"   HorizontalOptions="FillAndExpand"></Entry>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                        <Label Text="address"></Label>
+                        <Entry x:Name="addressTB"  HorizontalTextAlignment="Center"   TextColor="#ea6c57"   HorizontalOptions="FillAndExpand" MaxLength="10"></Entry>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" Padding="20,0,20,0">
+                        <Label Text="password"></Label>
+                        <Entry  x:Name="password"  HorizontalTextAlignment="Center"    TextColor="#ea6c57"   HorizontalOptions="FillAndExpand" IsPassword="True"></Entry>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" Padding="20,15,20,20" >
+                        <Button x:Name="signupBtn"  Text="Create Account" TextColor="White" HorizontalOptions="FillAndExpand" BackgroundColor="#ea6c57" Clicked="signupBtn_Clicked"></Button>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </ScrollView>
+    </StackLayout>
+</ContentPage>

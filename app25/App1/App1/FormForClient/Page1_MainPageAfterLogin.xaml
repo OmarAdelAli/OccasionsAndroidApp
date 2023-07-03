@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:forms="http://xamarin.com/schemas/2014/forms/design"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="App1.FormForClient.Page1_MainPageAfterLogin">
+    <ScrollView>
+        <StackLayout Orientation="Vertical" VerticalOptions="Start" Padding="15,0,15,0" >
+             <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Padding="10,20,10,5">
+                <forms:CarouselView x:Name="CVMenu" HeightRequest="190">
+                    <forms:CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding .}"></Image>
+
+                        </DataTemplate>
+                    </forms:CarouselView.ItemTemplate>
+                </forms:CarouselView>
+            </StackLayout>
+            <Label Text="SELECT CATEGORY" HorizontalOptions="CenterAndExpand"></Label>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Padding="10,20,10,5">
+                <Frame CornerRadius="10" Padding="0,5,0,5" Margin="0,0,5,0" >
+                    <StackLayout VerticalOptions="Center" WidthRequest="115" HeightRequest="130" >
+                        <Image Source="flower.png" Margin="0,15,0,0" HorizontalOptions="Center" VerticalOptions="Center"  HeightRequest="50" WidthRequest="50"/>
+                        <Label HorizontalOptions="Center" Margin="0,15,0,0" VerticalOptions="Center" Text="FLOWERS" TextColor="Black" FontSize="14" FontAttributes="None" HorizontalTextAlignment="Center" />
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer x:Name="readQRTap" Tapped="flower_Tapped"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </Frame>
+                <Frame CornerRadius="10"  Padding="0,5,0,5" Margin="0,0,5,0">
+                    <StackLayout WidthRequest="115" HeightRequest="130" >
+                        <Image Source="hotel.png" Margin="0,15,0,0" HorizontalOptions="Center" HeightRequest="50" WidthRequest="50" BackgroundColor="Transparent" />
+                        <Label HorizontalOptions="Center" Margin="0,15,0,0" Text="HOTEL"  TextColor="Black" FontSize="15" FontAttributes="None" HorizontalTextAlignment="Center" />
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer x:Name="locationTap" Tapped="hotel_Tapped" ></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Padding="10,20,10,5">
+                <Frame CornerRadius="10"  Padding="0,5,0,5">
+                    <StackLayout WidthRequest="115" HeightRequest="130">
+                        <Image Source="weddingTools.png" Margin="0,15,0,0" HorizontalOptions="Center"        HeightRequest="50" WidthRequest="50" BackgroundColor="Transparent"/>
+                        <Label HorizontalOptions="Center" Margin="0,15,0,0" Text="WEDDING HALLS"    TextColor="Black" FontSize="15" FontAttributes="None" HorizontalTextAlignment="Center"/>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer x:Name="emergencyTap" Tapped="weddingTools_Tapped"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </Frame>
+                <Frame CornerRadius="10"  Padding="0,5,0,5">
+                    <StackLayout WidthRequest="115" HeightRequest="130">
+                        <Image Source="makeup.png" Margin="0,15,0,0" HorizontalOptions="Center"        HeightRequest="50" WidthRequest="50" BackgroundColor="Transparent"/>
+                        <Label HorizontalOptions="Center" Margin="0,15,0,0" Text="MAKEUP"    TextColor="Black" FontSize="15" FontAttributes="None" HorizontalTextAlignment="Center"/>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer x:Name="makeup" Tapped="makeup_Tapped"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </Frame>
+                <Frame CornerRadius="10" Padding="0,5,0,5" Margin="0,0,5,0">
+                    <StackLayout VerticalOptions="Center" WidthRequest="115" HeightRequest="130">
+                        <Image Source="flower.png" Margin="0,15,0,0" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="50" WidthRequest="50"/>
+                        <Label HorizontalOptions="Center" Margin="0,15,0,0" VerticalOptions="Center" Text="FLOWERS" TextColor="Black" FontSize="14" FontAttributes="None" HorizontalTextAlignment="Center" />
+                        <Button Text="Client Order" x:Name="ClientOrderBtn" HorizontalOptions="FillAndExpand" Background="#ea6c57" TextColor="White" Clicked="ClientOrderBtn_Clicked"></Button>
+                        <StackLayout.GestureRecognizers>
+                           
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </StackLayout>
+
+    </ScrollView>
+</ContentPage>

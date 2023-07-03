@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Place Order"
+             Padding="10,20,10,10"
+             x:Class="App1.FormForClient.Page4_PlaceOrder">
+    <StackLayout>
+        <Frame BorderColor="Black">
+            <StackLayout Orientation="Vertical">
+                <Label Text="Delivery Date"></Label>
+                <DatePicker x:Name="OrderDateTB" HorizontalOptions="FillAndExpand"></DatePicker>
+                <Label Text="Delivery Time"></Label>
+                <TimePicker x:Name="OrderTimeTB" HorizontalOptions="FillAndExpand"></TimePicker>
+                <Label Text="Address"></Label>
+                <Editor  HorizontalOptions="FillAndExpand" x:Name="AddressTB" HeightRequest="100"></Editor>
+            </StackLayout>
+        </Frame>
+        <Button x:Name="NextBtn" Clicked="NextBtn_Clicked" BackgroundColor="#ea6c57" TextColor="White" Text="Next" HorizontalOptions="FillAndExpand"></Button>
+    </StackLayout>
+</ContentPage>

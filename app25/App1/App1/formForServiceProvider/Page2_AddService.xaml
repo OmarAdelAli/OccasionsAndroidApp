@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              NavigationPage.HasNavigationBar="False"
+             x:Class="App1.formForServiceProvider.Page2_AddService">
+    <StackLayout VerticalOptions="Center" Padding="20,20,10,20"   >
+        <Frame BorderColor="#ea6c57" CornerRadius="10"  Padding="0">
+            <StackLayout>
+                <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                    <Label Text="Service Name"></Label>
+                    <Entry x:Name="Service_nameTB"  HorizontalTextAlignment="Center"   TextColor="#ea6c57"   HorizontalOptions="FillAndExpand" MaxLength="30"></Entry>
+                </StackLayout>
+                <StackLayout Orientation="Vertical" Padding="20,20,20,0">
+                    <Label Text="Description"></Label>
+                    <Entry x:Name="descriptionTB"  HorizontalTextAlignment="Center"   TextColor="#ea6c57"   HorizontalOptions="FillAndExpand" MaxLength="50"></Entry>
+                </StackLayout>
+                <StackLayout Orientation="Vertical" Padding="20,0,20,0">
+                    <Label Text="Price"></Label>
+                    <Entry  x:Name="PriceTB"  HorizontalTextAlignment="Center"   TextColor="#ea6c57" Keyboard="Numeric"  HorizontalOptions="FillAndExpand"></Entry>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="20,15,20,20" >
+                    <Button x:Name="SaveBtn"  Text="Save" TextColor="White" HorizontalOptions="FillAndExpand" BackgroundColor="#ea6c57" Clicked="SaveBtn_Clicked"></Button>
+                </StackLayout>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,1447 @@
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\bin\Release\App1.Android.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\bin\Release\App1.Android.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\bin\Release\com.companyname.app1.apk
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\bin\Release\com.companyname.app1.aab
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\bin\Release\com.companyname.app1-Signed.aab
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk.idsig
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\bin\Release\App1.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\bin\Release\App1.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\build.props
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\adb.props
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\App1.Android.csproj.AssemblyReference.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\stamp\_BuildLibraryImportsCache.stamp
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res.flag
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\54\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\55\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\61\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\62\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\63\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\67\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\68\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\69\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\74\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\75\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\79\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\85\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\87\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\88\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\89\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\90\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\91\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\92\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\93\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\95\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\96\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\97\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\98\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\99\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\lp\104\jl\files.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\R.txt
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\R.cs.flag
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\App1.Android.csproj.CoreCompileInputs.cache
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\App1.Android.csproj.CopyComplete
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\App1.Android.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\App1.Android.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\bin\com.companyname.app1.apk
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\bin\base.zip
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\bin\com.companyname.app1.aab
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\bin\com.companyname.app1.apks
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\values\styles.xml
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\values\colors.xml
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-anydpi-v26\icon.xml
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-anydpi-v26\icon_round.xml
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-hdpi\icon.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-hdpi\launcher_foreground.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-mdpi\icon.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-mdpi\launcher_foreground.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-xhdpi\icon.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-xhdpi\launcher_foreground.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-xxhdpi\icon.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-xxhdpi\launcher_foreground.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-xxxhdpi\icon.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\drawable\slide1.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\drawable\applogo.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\drawable\slide2.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\drawable\slide3.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\drawable\weddingtools.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\drawable\flower.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\drawable\hotel.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\res\drawable\makeup.png
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\uploadflags.txt
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\resolvedassemblies.hash
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\link.flag
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\App1.Android.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\App1.Android.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\App1.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\App1.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\FormsViewGroup.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\FormsViewGroup.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Java.Interop.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Java.Interop.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Mono.Android.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Mono.Android.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Mono.Security.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Mono.Security.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\mscorlib.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\mscorlib.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\SQLite-net.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.core.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Buffers.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Core.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Core.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Data.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Data.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Drawing.Common.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Drawing.Common.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Net.Http.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Net.Http.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Numerics.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Numerics.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Runtime.Serialization.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Runtime.Serialization.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Xml.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\System.Xml.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Essentials.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Essentials.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.pdb
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\typemaps.arm64-v8a.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\typemaps.armeabi-v7a.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\typemaps.x86.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\typemaps.x86_64.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\AndroidManifest.xml
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\AndroidManifest.xml
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\__environment__.txt
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\MonoRuntimeProvider.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\assets\machine.config
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\bin\mono.android.jar
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\static.flag
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\buildid.txt
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\environment.arm64-v8a.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\environment.armeabi-v7a.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\environment.x86.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\environment.x86_64.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\annotation\experimental\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\resources\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\browser\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\cardview\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\constraintlayout\widget\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\coordinatorlayout\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\core\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\drawerlayout\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\fragment\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\lifecycle\runtime\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\lifecycle\viewmodel\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\media\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\navigation\common\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\navigation\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\navigation\ui\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\preference\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\recyclerview\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\savedstate\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\swiperefreshlayout\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\transition\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\androidx\viewpager2\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\com\google\android\material\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64ad68f59cd763e462\MainActivity.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\android\app\ApplicationRegistration.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\mono\MonoPackageManager_Resources.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\bin\packaged_resources
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\src\com\companyname\app1\R.java
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86_64.ll
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\typemaps.arm64-v8a.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\typemaps.armeabi-v7a.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\typemaps.x86.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\typemaps.x86_64.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\environment.arm64-v8a.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\environment.armeabi-v7a.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\environment.x86.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\environment.x86_64.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86_64.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\jni_remap.arm64-v8a.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\jni_remap.armeabi-v7a.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\jni_remap.x86.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\jni_remap.x86_64.o
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\app_shared_libraries\x86\libxamarin-app.so
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\app_shared_libraries\x86_64\libxamarin-app.so
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\android\bin\classes.dex
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\stamp\_CleanIntermediateIfNeeded.stamp
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\stamp\_CompileJava.stamp
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\stamp\_CompileToDalvik.stamp
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\stamp\_ConvertCustomView.stamp
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\stamp\_ConvertResourcesCases.stamp
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\stamp\_GenerateJavaStubs.stamp
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\stamp\_GeneratePackageManagerJava.stamp
+D:\OneDrive\Student Project\2023 Ramadan\Occasion\App\App1\App1\App1.Android\obj\Release\130\stamp\_ResolveLibraryProjectImports.stamp
+E:\app25\App1\App1.Android\bin\Release\App1.Android.dll
+E:\app25\App1\App1.Android\bin\Release\App1.Android.pdb
+E:\app25\App1\App1.Android\bin\Release\com.companyname.app1.apk
+E:\app25\App1\App1.Android\bin\Release\com.companyname.app1.aab
+E:\app25\App1\App1.Android\bin\Release\com.companyname.app1-Signed.aab
+E:\app25\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk
+E:\app25\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk.idsig
+E:\app25\App1\App1.Android\bin\Release\App1.dll
+E:\app25\App1\App1.Android\bin\Release\App1.pdb
+E:\app25\App1\App1.Android\obj\Release\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+E:\app25\App1\App1.Android\obj\Release\130\build.props
+E:\app25\App1\App1.Android\obj\Release\130\adb.props
+E:\app25\App1\App1.Android\obj\Release\130\App1.Android.csproj.AssemblyReference.cache
+E:\app25\App1\App1.Android\obj\Release\130\stamp\_BuildLibraryImportsCache.stamp
+E:\app25\App1\App1.Android\obj\Release\130\res.flag
+E:\app25\App1\App1.Android\obj\Release\130\lp\54\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\55\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\61\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\62\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\63\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\67\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\68\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\69\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\74\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\75\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\79\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\85\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\87\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\88\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\89\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\90\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\91\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\92\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\93\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\95\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\96\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\97\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\98\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\99\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\lp\104\jl\files.cache
+E:\app25\App1\App1.Android\obj\Release\130\R.txt
+E:\app25\App1\App1.Android\obj\Release\130\R.cs.flag
+E:\app25\App1\App1.Android\obj\Release\130\App1.Android.csproj.CoreCompileInputs.cache
+E:\app25\App1\App1.Android\obj\Release\130\App1.Android.csproj.CopyComplete
+E:\app25\App1\App1.Android\obj\Release\130\App1.Android.dll
+E:\app25\App1\App1.Android\obj\Release\130\App1.Android.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\bin\com.companyname.app1.apk
+E:\app25\App1\App1.Android\obj\Release\130\android\bin\base.zip
+E:\app25\App1\App1.Android\obj\Release\130\android\bin\com.companyname.app1.aab
+E:\app25\App1\App1.Android\obj\Release\130\android\bin\com.companyname.app1.apks
+E:\app25\App1\App1.Android\obj\Release\130\res\values\styles.xml
+E:\app25\App1\App1.Android\obj\Release\130\res\values\colors.xml
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-anydpi-v26\icon.xml
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-anydpi-v26\icon_round.xml
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-hdpi\icon.png
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-hdpi\launcher_foreground.png
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-mdpi\icon.png
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-mdpi\launcher_foreground.png
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-xhdpi\icon.png
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-xhdpi\launcher_foreground.png
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-xxhdpi\icon.png
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-xxhdpi\launcher_foreground.png
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-xxxhdpi\icon.png
+E:\app25\App1\App1.Android\obj\Release\130\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\app25\App1\App1.Android\obj\Release\130\res\drawable\slide1.png
+E:\app25\App1\App1.Android\obj\Release\130\res\drawable\applogo.png
+E:\app25\App1\App1.Android\obj\Release\130\res\drawable\slide2.png
+E:\app25\App1\App1.Android\obj\Release\130\res\drawable\slide3.png
+E:\app25\App1\App1.Android\obj\Release\130\res\drawable\weddingtools.png
+E:\app25\App1\App1.Android\obj\Release\130\res\drawable\flower.png
+E:\app25\App1\App1.Android\obj\Release\130\res\drawable\hotel.png
+E:\app25\App1\App1.Android\obj\Release\130\res\drawable\makeup.png
+E:\app25\App1\App1.Android\obj\Release\130\uploadflags.txt
+E:\app25\App1\App1.Android\obj\Release\130\resolvedassemblies.hash
+E:\app25\App1\App1.Android\obj\Release\130\link.flag
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\App1.Android.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\App1.Android.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\App1.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\App1.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\FormsViewGroup.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\FormsViewGroup.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Java.Interop.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Java.Interop.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Mono.Android.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Mono.Android.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Mono.Security.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Mono.Security.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\mscorlib.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\mscorlib.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\SQLite-net.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.batteries_v2.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.core.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Buffers.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Core.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Core.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Data.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Data.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Drawing.Common.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Drawing.Common.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Net.Http.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Net.Http.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Numerics.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Numerics.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Runtime.Serialization.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Runtime.Serialization.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Xml.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\System.Xml.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Essentials.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Essentials.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.pdb
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+E:\app25\App1\App1.Android\obj\Release\130\android\typemaps.arm64-v8a.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\typemaps.armeabi-v7a.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\typemaps.x86.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\typemaps.x86_64.ll
+E:\app25\App1\App1.Android\obj\Release\130\AndroidManifest.xml
+E:\app25\App1\App1.Android\obj\Release\130\android\AndroidManifest.xml
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\MonoRuntimeProvider.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\JavaInteropTypeManager.java
+E:\app25\App1\App1.Android\obj\Release\130\android\assets\machine.config
+E:\app25\App1\App1.Android\obj\Release\130\android\bin\mono.android.jar
+E:\app25\App1\App1.Android\obj\Release\130\static.flag
+E:\app25\App1\App1.Android\obj\Release\130\__environment__.txt
+E:\app25\App1\App1.Android\obj\Release\130\buildid.txt
+E:\app25\App1\App1.Android\obj\Release\130\android\environment.arm64-v8a.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\environment.armeabi-v7a.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\environment.x86.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\environment.x86_64.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\annotation\experimental\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\resources\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\browser\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\cardview\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\constraintlayout\widget\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\coordinatorlayout\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\core\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\drawerlayout\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\fragment\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\lifecycle\runtime\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\lifecycle\viewmodel\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\media\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\navigation\common\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\navigation\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\navigation\ui\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\preference\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\recyclerview\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\savedstate\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\swiperefreshlayout\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\transition\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\androidx\viewpager2\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\com\google\android\material\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64ad68f59cd763e462\MainActivity.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\android\app\ApplicationRegistration.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\app25\App1\App1.Android\obj\Release\130\android\src\mono\MonoPackageManager_Resources.java
+E:\app25\App1\App1.Android\obj\Release\130\android\bin\packaged_resources
+E:\app25\App1\App1.Android\obj\Release\130\android\src\com\companyname\app1\R.java
+E:\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86_64.ll
+E:\app25\App1\App1.Android\obj\Release\130\android\typemaps.arm64-v8a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\typemaps.armeabi-v7a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\typemaps.x86.o
+E:\app25\App1\App1.Android\obj\Release\130\android\typemaps.x86_64.o
+E:\app25\App1\App1.Android\obj\Release\130\android\environment.arm64-v8a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\environment.armeabi-v7a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\environment.x86.o
+E:\app25\App1\App1.Android\obj\Release\130\android\environment.x86_64.o
+E:\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86.o
+E:\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86_64.o
+E:\app25\App1\App1.Android\obj\Release\130\android\marshal_methods.arm64-v8a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\marshal_methods.armeabi-v7a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\marshal_methods.x86.o
+E:\app25\App1\App1.Android\obj\Release\130\android\marshal_methods.x86_64.o
+E:\app25\App1\App1.Android\obj\Release\130\android\jni_remap.arm64-v8a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\jni_remap.armeabi-v7a.o
+E:\app25\App1\App1.Android\obj\Release\130\android\jni_remap.x86.o
+E:\app25\App1\App1.Android\obj\Release\130\android\jni_remap.x86_64.o
+E:\app25\App1\App1.Android\obj\Release\130\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\app25\App1\App1.Android\obj\Release\130\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\app25\App1\App1.Android\obj\Release\130\app_shared_libraries\x86\libxamarin-app.so
+E:\app25\App1\App1.Android\obj\Release\130\app_shared_libraries\x86_64\libxamarin-app.so
+E:\app25\App1\App1.Android\obj\Release\130\android\bin\classes.dex
+E:\app25\App1\App1.Android\obj\Release\130\stamp\_CleanIntermediateIfNeeded.stamp
+E:\app25\App1\App1.Android\obj\Release\130\stamp\_CompileJava.stamp
+E:\app25\App1\App1.Android\obj\Release\130\stamp\_CompileToDalvik.stamp
+E:\app25\App1\App1.Android\obj\Release\130\stamp\_ConvertCustomView.stamp
+E:\app25\App1\App1.Android\obj\Release\130\stamp\_ConvertResourcesCases.stamp
+E:\app25\App1\App1.Android\obj\Release\130\stamp\_GenerateJavaStubs.stamp
+E:\app25\App1\App1.Android\obj\Release\130\stamp\_GeneratePackageManagerJava.stamp
+E:\app25\App1\App1.Android\obj\Release\130\stamp\_ResolveLibraryProjectImports.stamp
+E:\last\app25\App1\App1.Android\bin\Release\App1.Android.dll
+E:\last\app25\App1\App1.Android\bin\Release\App1.Android.pdb
+E:\last\app25\App1\App1.Android\bin\Release\com.companyname.app1.apk
+E:\last\app25\App1\App1.Android\bin\Release\com.companyname.app1.aab
+E:\last\app25\App1\App1.Android\bin\Release\com.companyname.app1-Signed.aab
+E:\last\app25\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk
+E:\last\app25\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk.idsig
+E:\last\app25\App1\App1.Android\bin\Release\App1.dll
+E:\last\app25\App1\App1.Android\bin\Release\App1.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+E:\last\app25\App1\App1.Android\obj\Release\130\build.props
+E:\last\app25\App1\App1.Android\obj\Release\130\adb.props
+E:\last\app25\App1\App1.Android\obj\Release\130\App1.Android.csproj.AssemblyReference.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\stamp\_BuildLibraryImportsCache.stamp
+E:\last\app25\App1\App1.Android\obj\Release\130\res.flag
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\54\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\55\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\61\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\62\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\63\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\67\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\68\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\69\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\74\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\75\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\79\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\85\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\87\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\88\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\89\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\90\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\91\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\92\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\93\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\95\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\96\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\97\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\98\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\99\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\lp\104\jl\files.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\R.txt
+E:\last\app25\App1\App1.Android\obj\Release\130\R.cs.flag
+E:\last\app25\App1\App1.Android\obj\Release\130\App1.Android.csproj.CoreCompileInputs.cache
+E:\last\app25\App1\App1.Android\obj\Release\130\App1.Android.csproj.CopyComplete
+E:\last\app25\App1\App1.Android\obj\Release\130\App1.Android.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\App1.Android.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\bin\com.companyname.app1.apk
+E:\last\app25\App1\App1.Android\obj\Release\130\android\bin\base.zip
+E:\last\app25\App1\App1.Android\obj\Release\130\android\bin\com.companyname.app1.aab
+E:\last\app25\App1\App1.Android\obj\Release\130\android\bin\com.companyname.app1.apks
+E:\last\app25\App1\App1.Android\obj\Release\130\res\values\styles.xml
+E:\last\app25\App1\App1.Android\obj\Release\130\res\values\colors.xml
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-anydpi-v26\icon.xml
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-anydpi-v26\icon_round.xml
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-hdpi\icon.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-hdpi\launcher_foreground.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-mdpi\icon.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-mdpi\launcher_foreground.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-xhdpi\icon.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-xhdpi\launcher_foreground.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-xxhdpi\icon.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-xxhdpi\launcher_foreground.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-xxxhdpi\icon.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\drawable\slide1.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\drawable\applogo.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\drawable\slide2.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\drawable\slide3.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\drawable\weddingtools.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\drawable\flower.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\drawable\hotel.png
+E:\last\app25\App1\App1.Android\obj\Release\130\res\drawable\makeup.png
+E:\last\app25\App1\App1.Android\obj\Release\130\uploadflags.txt
+E:\last\app25\App1\App1.Android\obj\Release\130\resolvedassemblies.hash
+E:\last\app25\App1\App1.Android\obj\Release\130\link.flag
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\App1.Android.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\App1.Android.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\App1.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\App1.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\FormsViewGroup.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\FormsViewGroup.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Java.Interop.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Java.Interop.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Mono.Android.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Mono.Android.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Mono.Security.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Mono.Security.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\mscorlib.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\mscorlib.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\SQLite-net.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.batteries_v2.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.core.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Buffers.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Core.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Core.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Data.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Data.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Drawing.Common.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Drawing.Common.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Net.Http.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Net.Http.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Numerics.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Numerics.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Runtime.Serialization.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Runtime.Serialization.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Xml.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\System.Xml.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Essentials.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Essentials.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.pdb
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\typemaps.arm64-v8a.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\typemaps.armeabi-v7a.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\typemaps.x86.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\typemaps.x86_64.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\AndroidManifest.xml
+E:\last\app25\App1\App1.Android\obj\Release\130\android\AndroidManifest.xml
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\MonoRuntimeProvider.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\JavaInteropTypeManager.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\assets\machine.config
+E:\last\app25\App1\App1.Android\obj\Release\130\android\bin\mono.android.jar
+E:\last\app25\App1\App1.Android\obj\Release\130\static.flag
+E:\last\app25\App1\App1.Android\obj\Release\130\__environment__.txt
+E:\last\app25\App1\App1.Android\obj\Release\130\buildid.txt
+E:\last\app25\App1\App1.Android\obj\Release\130\android\environment.arm64-v8a.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\environment.armeabi-v7a.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\environment.x86.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\environment.x86_64.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\annotation\experimental\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\resources\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\browser\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\cardview\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\constraintlayout\widget\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\coordinatorlayout\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\core\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\drawerlayout\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\fragment\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\lifecycle\runtime\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\lifecycle\viewmodel\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\media\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\navigation\common\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\navigation\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\navigation\ui\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\preference\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\recyclerview\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\savedstate\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\swiperefreshlayout\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\transition\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\androidx\viewpager2\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\com\google\android\material\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64ad68f59cd763e462\MainActivity.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\android\app\ApplicationRegistration.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\mono\MonoPackageManager_Resources.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\bin\packaged_resources
+E:\last\app25\App1\App1.Android\obj\Release\130\android\src\com\companyname\app1\R.java
+E:\last\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86_64.ll
+E:\last\app25\App1\App1.Android\obj\Release\130\android\typemaps.arm64-v8a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\typemaps.armeabi-v7a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\typemaps.x86.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\typemaps.x86_64.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\environment.arm64-v8a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\environment.armeabi-v7a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\environment.x86.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\environment.x86_64.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\compressed_assemblies.x86_64.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\marshal_methods.arm64-v8a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\marshal_methods.armeabi-v7a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\marshal_methods.x86.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\marshal_methods.x86_64.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\jni_remap.arm64-v8a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\jni_remap.armeabi-v7a.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\jni_remap.x86.o
+E:\last\app25\App1\App1.Android\obj\Release\130\android\jni_remap.x86_64.o
+E:\last\app25\App1\App1.Android\obj\Release\130\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\last\app25\App1\App1.Android\obj\Release\130\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\last\app25\App1\App1.Android\obj\Release\130\app_shared_libraries\x86\libxamarin-app.so
+E:\last\app25\App1\App1.Android\obj\Release\130\app_shared_libraries\x86_64\libxamarin-app.so
+E:\last\app25\App1\App1.Android\obj\Release\130\android\bin\classes.dex
+E:\last\app25\App1\App1.Android\obj\Release\130\stamp\_CleanIntermediateIfNeeded.stamp
+E:\last\app25\App1\App1.Android\obj\Release\130\stamp\_CompileJava.stamp
+E:\last\app25\App1\App1.Android\obj\Release\130\stamp\_CompileToDalvik.stamp
+E:\last\app25\App1\App1.Android\obj\Release\130\stamp\_ConvertCustomView.stamp
+E:\last\app25\App1\App1.Android\obj\Release\130\stamp\_ConvertResourcesCases.stamp
+E:\last\app25\App1\App1.Android\obj\Release\130\stamp\_GenerateJavaStubs.stamp
+E:\last\app25\App1\App1.Android\obj\Release\130\stamp\_GeneratePackageManagerJava.stamp
+E:\last\app25\App1\App1.Android\obj\Release\130\stamp\_ResolveLibraryProjectImports.stamp

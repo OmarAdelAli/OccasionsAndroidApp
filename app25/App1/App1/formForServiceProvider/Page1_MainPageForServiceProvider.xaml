@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Padding="10,10,10,10"
+             Title="Main Page"
+             x:Class="App1.formForServiceProvider.Page1_MainPageForServiceProvider">
+    <StackLayout VerticalOptions="CenterAndExpand">
+        <StackLayout VerticalOptions="Center"  HorizontalOptions="FillAndExpand">
+            <Image  WidthRequest="100" HeightRequest="100" IsVisible="True" Source="appLogo.png"></Image>
+        </StackLayout>
+        <StackLayout VerticalOptions="Center" Padding="0,20,0,0"  HorizontalOptions="FillAndExpand">
+            <Button Text="Add Services" x:Name="AddServiceBtn" HorizontalOptions="FillAndExpand" Background="#ea6c57" TextColor="White" Clicked="AddServiceBtn_Clicked"></Button>
+            <Button Text="Saved Services" x:Name="SavedServicesBtn" HorizontalOptions="FillAndExpand" Background="#ea6c57" TextColor="White" Clicked="SavedServicesBtn_Clicked"></Button>
+            <Button Text="Client Order" x:Name="ClientOrderBtn" HorizontalOptions="FillAndExpand" Background="#ea6c57" TextColor="White" Clicked="ClientOrderBtn_Clicked"></Button>
+            <Button Text="Logout" x:Name="LogoutBtn" HorizontalOptions="FillAndExpand" Background="#ea6c57" TextColor="White" Clicked="LogoutBtn_Clicked"></Button>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
+    
